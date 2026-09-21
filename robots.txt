@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bdmpk.cn/sitemap.xml
